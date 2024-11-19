@@ -5,4 +5,8 @@ public class Main {
         System.out.println("Hello world! Br 7");
 
     }
+
+    public static int sum(int a, int b) {
+        return a + b;
+    }
 }
